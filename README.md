@@ -42,7 +42,7 @@ My goal is to grow as a **software developer** and contribute to projects that m
 - Built a **machine learning model** to classify messages as *ham* or *spam*.  
 - Utilized **Python, scikit-learn, pandas, and NumPy** for model training.  
 - Applied **NLP techniques** for data cleaning, preprocessing, and text classification.
-
+!(Linkedin Dashboard] WhatsApp Image 2025-11-10 at 19.12.04_cfdf4f26
 ---
 
 ## 🧩 Skills
